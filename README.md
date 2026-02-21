@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="180"/>
+  <img src="Access/Untitled.png" width="180"/>
 </p>
 
 <h1 align="center">Phạm Nguyễn Nhật Trường</h1>
@@ -96,7 +96,7 @@ Time-series analysis & environmental insights
 
 ## 📫 7. CONTACT
 
-📧 Email: your_email_here  
+📧 Email: phamnguyen152003@gmail.com  
 📍 Ho Chi Minh City, Vietnam  
 
 ---
