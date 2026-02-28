@@ -38,10 +38,14 @@
 ## 📘 1. ABOUT ME – GIỚI THIỆU
 
 VN:  
-Tôi là Phạm Nguyễn Nhật Trường, sinh viên chuyên ngành Khoa học Dữ liệu với định hướng phát triển trong lĩnh vực Trí tuệ Nhân tạo và Phân tích dữ liệu. Tôi tập trung vào việc xây dựng các hệ thống AI có tính ứng dụng thực tế và phát triển tư duy nghiên cứu.
+Tôi là Phạm Nguyễn Nhật Trường, tốt nghiệp chuyên ngành Khoa học Dữ liệu với định hướng phát triển chuyên sâu trong lĩnh vực Trí tuệ Nhân tạo và Phân tích dữ liệu.  
+Tôi chú trọng xây dựng nền tảng vững chắc về toán học, thống kê và học máy, đồng thời ứng dụng các kiến thức này vào những bài toán thực tiễn.  
+Mục tiêu của tôi là phát triển các hệ thống AI có tính ứng dụng cao, đảm bảo tính chặt chẽ về mặt lý thuyết và giá trị thực tế.
 
 EN:  
-I am Pham Nguyen Nhat Truong, a Data Science graduate passionate about Artificial Intelligence and Data Analytics. I focus on building practical AI systems and continuously developing research-oriented thinking.
+I am Pham Nguyen Nhat Truong, a Data Science graduate with a focused interest in Artificial Intelligence and Data Analytics.  
+My academic journey emphasizes strong foundations in mathematics, statistics, and machine learning, combined with practical implementation through real-world projects.  
+I aim to develop AI systems that are theoretically grounded and practically impactful.
 
 ---
 
@@ -50,6 +54,7 @@ I am Pham Nguyen Nhat Truong, a Data Science graduate passionate about Artificia
 - Data Science  
 - 152 Credits Completed  
 - Graduation Rank: Good  
+- Academic training covering Machine Learning, Deep Learning, Data Mining, and Big Data systems  
 
 ---
 
@@ -72,19 +77,20 @@ I am Pham Nguyen Nhat Truong, a Data Science graduate passionate about Artificia
 - Big Data  
 - Neural Networks  
 - Data Visualization  
+- Probability & Statistics  
 
 ---
 
 ## 🚀 5. PROJECT HIGHLIGHTS
 
 ### 🔹 Retail Sales SQL Analytics  
-Business intelligence & KPI analysis using SQL  
+Business intelligence analysis and KPI evaluation using structured SQL queries.
 
 ### 🔹 Computer Vision – Object Detection  
-Deep Learning model for object detection  
+Deep learning–based object detection model developed on a custom dataset.
 
 ### 🔹 Air Pollution Data Analysis  
-Time-series analysis & environmental insights  
+Time-series analysis and statistical modeling for environmental data insights.
 
 ---
 
